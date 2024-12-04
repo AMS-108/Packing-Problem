@@ -1,5 +1,6 @@
 This paper proposes an innovative algorithm SCC (Shuffle Combine Climber) to efficiently solve the classic Knapsack Problem. The Knapsack Problem is an important challenge in the field of combinatorial optimization, involving how to maximize the value of items under capacity constraints, and is widely used in practical scenarios such as logistics optimization and resource allocation.
 SCC improves the limitations of traditional hill climbing algorithms by introducing "shuffle" and "combine" strategies, and balances local exploration and global optimization capabilities in the search process. The core idea of ​​the algorithm is to enhance the quality of the initial solution by using randomness and diversity, and quickly converge to a high-quality solution through an efficient hill climbing mechanism.
+![SCC](https://github.com/user-attachments/assets/fd79cf41-181a-4725-a33d-60efb4c5d53d)
 
 Algorithm comparison experiment
 To verify the superiority of SCC, this paper compares it with two classic algorithms:
